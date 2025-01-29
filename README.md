@@ -11,4 +11,5 @@ Facilitates Communication – Aids in effectively sharing insights with stakehol
 Encourages Data Exploration – Interactive dashboards enable users to drill down into data for deeper analysis.
 
 The following assignment observes the trends and patterns in the dataset recorded by Uber across New York and surrounding cities from the year 2009-2015.
-Dataset : Consists of a unique id for each ride booking and a different time and location of pickup and drop across various places
+
+Dataset : Consists of a unique id for each ride booking and a different time and location of pickup and drop across various places using Plotly : an interactive Data Visualization library
