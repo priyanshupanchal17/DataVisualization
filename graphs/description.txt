@@ -1,0 +1,1 @@
+The folder contains the screenshots of all the interactive data visualizations in the project.
